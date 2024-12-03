@@ -5,9 +5,11 @@
       <sourceFolder url="file://$MODULE_DIR$/advent-of-code-2024/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/day-1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/day-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day-3/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/advent-of-code-2024/target" />
       <excludeFolder url="file://$MODULE_DIR$/day-1/target" />
       <excludeFolder url="file://$MODULE_DIR$/day-2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/day-3/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
